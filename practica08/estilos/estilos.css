@@ -1,0 +1,105 @@
+body{
+    color:rgb(49, 2, 2);
+    margin: 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;    
+}
+
+logo {
+    position: absolute;
+    right: 300px;
+    top: 40px; 
+}
+
+h1{
+    color:rgb(49, 2, 2);
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h2{
+    color:rgb(49, 2, 2);
+    font-size: 2.5rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    padding-bottom: 10 px;
+}
+
+h3{
+    color:rgb(49, 2, 2);
+    font-family: 'Poppins', sans-serif;}
+
+p{
+
+line-height: 2;
+
+}
+
+hr{
+    border: dotted rgb(240, 0, 180) 8px;
+    border-bottom: none;
+    width: 8%;
+    background-color: whitesmoke;
+    margin: 50px auto;
+}
+
+a{
+    color:rgb(49, 2, 2);
+    font-family: 'Poppins', sans-serif;
+    margin: 10px 20 px;
+}
+
+a:hover {
+    color:rgb(49, 2, 2);
+
+}
+.contenedorsuperior{
+    background-color: whitesmoke;
+    position: center;
+    padding: top 100px;
+
+}
+
+.contenedormedio {
+    margin: 100px 0;
+    background-color: whitesmoke;
+    position: center;
+}
+.contenedorinferior{
+    background-color: rgb(240, 0, 180);
+    padding: 50px;
+    background-color: whitesmoke;
+}
+
+.filahabilidades{
+    width: 100%;
+    margin: 100 px auto 100 px auto;
+    text-align: center;
+    position: center;
+    background-color: whitesmoke;
+}
+
+.filagustos{
+    width: 100%;
+    margin: 100 px auto 100 px auto;
+    text-align: center;
+    position: center;
+    background-color: whitesmoke;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.mensajeContacto{
+width: 40%;
+color: rgb(240, 0, 180);
+margin: 40 px auto 60px;
+background-color: rgb(240, 0, 180);
+}
+
+.copyright{
+color:rgb(240, 0, 180);
+}
